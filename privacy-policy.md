@@ -43,3 +43,6 @@ Uygulamamızın tam fonksiyonel çalışabilmesi için aşağıdaki izinler gere
 * **Galeri / Depolama (READ_EXTERNAL_STORAGE):** Cihazınızda daha önceden kayıtlı olan fatura veya garanti görsellerini seçip uygulamaya yükleyebilmeniz için gereklidir.
 * **İnternet ve Ağ Durumu (INTERNET & ACCESS_NETWORK_STATE):** Verilerinizin Firebase ile senkronize edilmesi ve AdMob üzerinden reklam gösterimi sağlanması için gereklidir.
 * **Reklam Kimliği (AD_ID):** Google AdMob aracılığıyla size uygun reklamları sunabilmek ve reklam performansını ölçebilmek için standart bir tanımlayıcı olarak kullanılır.
+
+## 7. Hesap ve Veri Silme Talebi
+Kullanıcılar, hesaplarını ve uygulamaya kayıtlı tüm verilerini silme hakkına sahiptir. Verilerinizin kalıcı olarak silinmesi için uygulama içindeki "Hesabımı Sil" butonunu kullanabilir veya vibecoderdevelope@gmail.com adresine "Hesap Silme Talebi" konulu bir e-posta göndererek başvuruda bulunabilirsiniz. Talebiniz 7 iş günü içinde işleme alınacaktır.
