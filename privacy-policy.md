@@ -34,3 +34,12 @@ Kullanıcılar, uygulama üzerinden veya destek kanallarımız aracılığıyla 
 ## 5. İletişim
 Bu politika hakkında sorularınız için bizimle iletişime geçebilirsiniz:
 **E-posta:** vibecoderdevelope@gmail.com
+
+## 6. Uygulama İzinleri ve Kullanım Sebepleri
+
+Uygulamamızın tam fonksiyonel çalışabilmesi için aşağıdaki izinler gereklidir:
+
+* **Kamera (CAMERA):** Garanti belgelerinin ve faturaların fotoğrafını çekerek OCR (metin tanıma) işlemi yapabilmek için kullanılır. Çekilen fotoğraflar sadece yerel analiz ve sizin onayınızla bulut yedekleme için kullanılır.
+* **Galeri / Depolama (READ_EXTERNAL_STORAGE):** Cihazınızda daha önceden kayıtlı olan fatura veya garanti görsellerini seçip uygulamaya yükleyebilmeniz için gereklidir.
+* **İnternet ve Ağ Durumu (INTERNET & ACCESS_NETWORK_STATE):** Verilerinizin Firebase ile senkronize edilmesi ve AdMob üzerinden reklam gösterimi sağlanması için gereklidir.
+* **Reklam Kimliği (AD_ID):** Google AdMob aracılığıyla size uygun reklamları sunabilmek ve reklam performansını ölçebilmek için standart bir tanımlayıcı olarak kullanılır.
